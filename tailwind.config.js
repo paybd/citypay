@@ -11,6 +11,10 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        "banglabold": "var(--font-bangla-bold)",
+        "banglasemibold": "var(--font-bangla-semibold)",
+              }
     },
   },
   plugins: [],
