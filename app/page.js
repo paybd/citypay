@@ -26,6 +26,12 @@ const onDownloadButtonClick = ()=>{
      </div>
 
 
+
+     <div className="flex items-center justify-center">
+     <Image src="/banner.png" height={200} width={400} alt="fdf"  />
+     </div>
+
+
    
 
 
@@ -53,7 +59,7 @@ const onDownloadButtonClick = ()=>{
 
 <div className="items-center justify-center col-span-6">
   
-<Link href="https://appho.st/d3/nPMtVzkV/app.apk?platform=android&version=1.0.0" className="bg-green-600 px-4 py-4 rounded-lg flex gap-2 shadow-md shadow-green-600"><h1 className="text-white text-sm">DOWNLOAD APP</h1> <DownloadCloudIcon color="white"/></Link>
+<Link href="https://www.dropbox.com/scl/fi/b6u9z0sch1np4n7yy1nw9/app.apk?rlkey=mdkl5jn621n50mb7cuchop15r&st=8n2yiw2o&dl=1" className="bg-green-600 px-4 py-4 rounded-lg flex gap-2 shadow-md shadow-green-600"><h1 className="text-white text-sm">DOWNLOAD APP</h1> <DownloadCloudIcon color="white"/></Link>
 </div>
    </div>
 

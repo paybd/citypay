@@ -20,7 +20,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body  className={`${BanglaBold.variable} ${BanglaSemiBold.variable} bg-slate-100 p-8 bg-[url('/mockup.png')] bg-transparent-50 bg-cover bg-no-repeat`}
+      <body  className={`${BanglaBold.variable} ${BanglaSemiBold.variable} bg-slate-100 p-8  bg-transparent-50 bg-cover bg-no-repeat`}
       
       >
         {children}
