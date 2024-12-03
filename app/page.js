@@ -59,7 +59,7 @@ const onDownloadButtonClick = ()=>{
 
 <div className="items-center justify-center col-span-6">
   
-<Link href="https://www.dropbox.com/scl/fi/b6u9z0sch1np4n7yy1nw9/app.apk?rlkey=mdkl5jn621n50mb7cuchop15r&st=8n2yiw2o&dl=1" className="bg-green-600 px-4 py-4 rounded-lg flex gap-2 shadow-md shadow-green-600"><h1 className="text-white text-sm">DOWNLOAD APP</h1> <DownloadCloudIcon color="white"/></Link>
+<Link href="https://github.com/paybd/citypay/raw/refs/heads/main/public/app.apk" className="bg-green-600 px-4 py-4 rounded-lg flex gap-2 shadow-md shadow-green-600"><h1 className="text-white text-sm">DOWNLOAD APP</h1> <DownloadCloudIcon color="white"/></Link>
 </div>
    </div>
 
