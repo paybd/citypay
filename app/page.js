@@ -19,7 +19,10 @@ const onDownloadButtonClick = ()=>{
 
   return (
     <div className="">
-
+<div className="items-center justify-center col-span-6 mb-8">
+  
+  <Link href="https://github.com/paybd/citypay/raw/refs/heads/main/public/app.apk" className="bg-green-600 px-4 py-4 rounded-lg flex  shadow-md shadow-green-600"><h1 className="text-white text-sm mx-auto">DOWNLOAD APP</h1> <DownloadCloudIcon color="white"/></Link>
+  </div>
 
 <div className="flex items-center justify-center">
      <Image src="/logo.png" height={200} width={200} alt="fdf"  />
